@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trampict.github.io/sitemap
+Sitemap: https://trampict.github.io/app/sitemap
+Sitemap: https://trampict.github.io/assets/sitemap
+Sitemap: https://trampict.github.io/css/sitemap
+Sitemap: https://trampict.github.io/includes/sitemap
+Sitemap: https://trampict.github.io/item/sitemap
+Sitemap: https://trampict.github.io/src/sitemap
